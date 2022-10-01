@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Ropa Sans;
+
+}
+.navbar .navbar-nav .nav-link {
+    font-size: 17px;
+    
+}
+.navbar .navbar-nav .nav-link:hover{
+    color: #808080;
+}
+.navbar-collapse{
+  
+    background-color: rgba(255, 86, 11, 1);
+    
+  }
+.navbar a {
+    color: rgba(255, 255, 255, 1);
+}
+.navbar a:hover {
+    color: grey;
+}
+#green-leaf{
+    margin-top: 150px;
+   
+    
+}
+#exp{
+    margin-bottom: 115px;
+    
+}
+#button{
+    font-size: 16px;
+    color: #ffffff;
+    font-family: 'Arial';
+    background-color: rgba(0, 0, 0, 1);
+    letter-spacing: 0px;
+    border-width: 2px;
+    padding: 22px 44px;
+    border-radius: 34px;
+    width:auto;
+    
+}
+ 
